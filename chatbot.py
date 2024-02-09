@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import scrolledtext, messagebox
 import openai
 
-api_key = "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"
+api_key = "add ypur key from creating account on open_ai"
 client = openai.OpenAI(api_key=api_key)
 
 class ChatbotGUI:
